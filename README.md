@@ -5,3 +5,4 @@ Katıldığım patikalar:
 
 - [Veri Yapıları ve Algoritmalar](https://academy.patika.dev/tr/courses/veri-yapilari-ve-algoritmalar)
 
+- [Nesne Yönelimli Programlama](https://academy.patika.dev/tr/courses/oop)
